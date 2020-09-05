@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hola Android</string>
+    <string name="intro">¡Learning Together!</string>
+    <string name="ingreso">Login</string>
+    <string name="registro">Register</string>
+    <string name="pass">Password</string>
+    <string name="usuario">User</string>
+</resources>

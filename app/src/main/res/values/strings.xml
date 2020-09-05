@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hola Android</string>
+    <string name="intro">¡Aprendiendo juntos!</string>
+    <string name="ingreso">Ingresar</string>
+    <string name="registro">Registrarme</string>
+    <string name="pass">Contraseña</string>
+    <string name="usuario">Usuario</string>
+</resources>
