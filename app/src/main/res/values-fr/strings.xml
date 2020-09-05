@@ -5,5 +5,5 @@
     <string name="ingreso">Connexion</string>
     <string name="registro">Inscription</string>
     <string name="pass">Mot de passe</string>
-    <string name="usuario">Nom d'utilisateur</string>
+    <string name="usuario">Nom d\'utilisateur</string>
 </resources>
